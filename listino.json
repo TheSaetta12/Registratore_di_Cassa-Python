@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Acqua 1L",
+        "prezzo": 0.4
+    },
+    {
+        "nome": "Acqua 2L",
+        "prezzo": 0.8
+    },
+    {
+        "nome": "Coca-Cola Zero",
+        "prezzo": 1.2
+    },
+    {
+        "nome": "Succo di Ananas",
+        "prezzo": 1.5
+    },
+    {
+        "nome": "Lasagna al Pistacchio",
+        "prezzo": 2.0
+    },
+    {
+        "nome": "Lasagna alla Bolognese",
+        "prezzo": 2.5
+    }
+]

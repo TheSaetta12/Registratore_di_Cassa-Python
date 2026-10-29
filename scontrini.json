@@ -1,0 +1,113 @@
+[
+    {
+        "numero": 1,
+        "data_ora": "2026-07-06 16:42:01.032642",
+        "righe": [
+            {
+                "nome": "Acqua 2L",
+                "prezzo": 0.8,
+                "quantita": 50.0,
+                "subtotale": 40.0
+            },
+            {
+                "nome": "Coca-Cola Zero",
+                "prezzo": 1.2,
+                "quantita": 40.0,
+                "subtotale": 48.0
+            },
+            {
+                "nome": "Lasagna al Pistacchio",
+                "prezzo": 2.0,
+                "quantita": 50.0,
+                "subtotale": 100.0
+            }
+        ],
+        "totale": 188.0,
+        "sconto": 18.8,
+        "pagato": 169.2
+    },
+    {
+        "numero": 2,
+        "data_ora": "2026-07-06 16:42:52.856577",
+        "righe": [
+            {
+                "nome": "Succo di Ananas",
+                "prezzo": 1.5,
+                "quantita": 50.0,
+                "subtotale": 75.0
+            }
+        ],
+        "totale": 75.0,
+        "sconto": 7.5,
+        "pagato": 67.5
+    },
+    {
+        "numero": 3,
+        "data_ora": "2026-07-06 16:43:49.096660",
+        "righe": [
+            {
+                "nome": "Acqua 1L",
+                "prezzo": 0.4,
+                "quantita": 50.0,
+                "subtotale": 20.0
+            },
+            {
+                "nome": "Acqua 2L",
+                "prezzo": 0.8,
+                "quantita": 60.0,
+                "subtotale": 48.0
+            },
+            {
+                "nome": "Succo di Ananas",
+                "prezzo": 1.5,
+                "quantita": 30.0,
+                "subtotale": 45.0
+            }
+        ],
+        "totale": 113.0,
+        "sconto": 11.3,
+        "pagato": 101.7
+    },
+    {
+        "numero": 4,
+        "data_ora": "2026-07-08 09:57:57.883540",
+        "righe": [
+            {
+                "nome": "Lasagna alla Bolognese",
+                "prezzo": 2.5,
+                "quantita": 50.0,
+                "subtotale": 125.0
+            },
+            {
+                "nome": "Lasagna al Pistacchio",
+                "prezzo": 2.0,
+                "quantita": 50.0,
+                "subtotale": 100.0
+            },
+            {
+                "nome": "Coca-Cola Zero",
+                "prezzo": 1.2,
+                "quantita": 30.0,
+                "subtotale": 36.0
+            }
+        ],
+        "totale": 261.0,
+        "sconto": 26.1,
+        "pagato": 234.9
+    },
+    {
+        "numero": 5,
+        "data_ora": "2026-07-08 09:59:02.266653",
+        "righe": [
+            {
+                "nome": "Lasagna alla Bolognese",
+                "prezzo": 2.5,
+                "quantita": 20.0,
+                "subtotale": 50.0
+            }
+        ],
+        "totale": 50.0,
+        "sconto": 0,
+        "pagato": 50.0
+    }
+]
